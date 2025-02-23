@@ -121,8 +121,8 @@
 </p>
 
 <p align="center">
-  <a href="https://buymeacoffee.com/Meetpidev" target="_blank">
-    <img src="https://buymeacoffee.com/meetpidev" alt="Buy Me A Coffee" width="150"/>
+  <a href="https://buymeacoffee.com/meetpidev" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"/>
   </a>
 </p>
 
