@@ -6,7 +6,7 @@
 
 <img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
 
-- 🌱 **Currently Working On:** [Visual Sort](https://visual-sort-pink.vercel.app/)<br>
+- 🌱 **Currently Working On:** [Stack_Movie](https://stack-movies.vercel.app/)<br>
 - 💬 Ask Me About: JAVA, SQL, Web Development, Anime, Designing, or anything. <br>
 - 📫 Reach Me At: [meetshah@gmail.com](mailto:meetkshah3112@gmail.com) <br>
 - ⚡ About Me: **A Kuudere with a touch of intelligence.** <br>
@@ -21,9 +21,9 @@
 
 <div align="center">
 
-<a href="https://instagram.com/sid_kulkarni_712" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.instagram.com/me.et1368/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/meet-shah-0384891a7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/SidKulkarni712" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://x.com/S38865Meet" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 
 </div>
 
@@ -92,8 +92,8 @@
       <th>Description</th>
     </tr>
     <tr>
-      <td><a href="https://visual-sort-pink.vercel.app/">Visual Sort</a></td>
-      <td>Visual Sort is a web-based sorting algorithm visualization tool built using HTML, CSS, Bootstrap, SCSS, and JavaScript. This project provides an interactive way to visualize various sorting algorithms in action, helping users understand how different algorithms work and their efficiency in sorting data.</td>
+      <td><a href="https://stack-movies.vercel.app/">Stack_Movie</a></td>
+      <td>We are proud to have won StackHack Hackathon with this innovative project. Our project is a full-stack movie management system built with React.js, Node.js, Express.js, and MongoDB. It allows users to browse movies by theater, view detailed information, and make reservations, all while ensuring secure user sessions through JWT-based authentication and role-based access control. Admins can easily manage movie records and user reservations via a dedicated dashboard. The responsive design ensures a seamless experience across devices, making it an ideal solution for cinemas. </td>
     </tr>
   </table>
 </details>
